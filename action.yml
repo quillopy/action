@@ -1,4 +1,4 @@
-name: Changesets
+name: Changesets Quillopy
 description: A GitHub action to automate releases with Changesets
 runs:
   using: "node24"
